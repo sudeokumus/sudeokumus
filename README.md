@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sude Okumuş</h1>
+<h1 align="center">Hi 👋🏻, I'm Sude Okumuş</h1>
 <h3 align="center">I am a student of mathematical engineering</h3>
 
 - 🌱 I’m currently learning **Python**
